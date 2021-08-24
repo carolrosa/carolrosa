@@ -1,4 +1,10 @@
 ### Hi there 👋
+My name is Caroline. 
+
+- ✨ I´m an architect migrating to IT :)
+- 🌱 Currently learning {frontend} and QA.
+
+- 📫 How to reach me: https://www.linkedin.com/in/carolinegrosa/
 
 <!--
 **carolrosa/carolrosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
