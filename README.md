@@ -3,12 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carolrosa&label=Profile%20views&color=0e75b6&style=flat" alt="carolrosa" /> </p>
 
-🔭 Software tester at CWI Software.
-🌱 Studying {frontend} and {backend}.
-⚡ Lifelong learner.
+------------
+
+🔭 Software tester at CWI Software. <br>
+🌱 Studying {frontend} and {backend}. <br>
+⚡ Lifelong learner. <br>
 
 📫 How to reach me: https://www.linkedin.com/in/carolinegrosa/
 
+------------
 
 ### Stats 
 ![ ](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carolrosa&theme=nord_bright)
