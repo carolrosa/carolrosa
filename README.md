@@ -1,17 +1,20 @@
 ### Hi there 👋
-My name is Caroline. 
+### My name is Caroline. 
 
-- ✨ I´m an architect migrating to IT :)
-- 🔭 I’m currently working with QA.
-- 🌱 Studying {frontend} and {backend}.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=carolrosa&label=Profile%20views&color=0e75b6&style=flat" alt="carolrosa" /> </p>
 
-- 📫 How to reach me: https://www.linkedin.com/in/carolinegrosa/
+🔭 Software tester at CWI Software.
+🌱 Studying {frontend} and {backend}.
+⚡ Lifelong learner.
+
+📫 How to reach me: https://www.linkedin.com/in/carolinegrosa/
+
+
+### Stats 
+![ ](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carolrosa&theme=nord_bright)
+
 
 <!--
-**carolrosa/carolrosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
