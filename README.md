@@ -2,7 +2,8 @@
 My name is Caroline. 
 
 - ✨ I´m an architect migrating to IT :)
-- 🌱 Currently learning {frontend} and QA.
+- 🔭 I’m currently working with QA.
+- 🌱 Studying {frontend} and {backend}.
 
 - 📫 How to reach me: https://www.linkedin.com/in/carolinegrosa/
 
