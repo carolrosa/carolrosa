@@ -5,8 +5,8 @@
 
 ------------
 
-🔭 Software tester at CWI Software. <br>
-🌱 Studying {frontend} and {backend}. <br>
+🔭 QA at CWI Software. <br>
+🌱 Studying Software Quality Engineering and Full Stack Java Development at EBAC {British School of Creative Arts and Technology}. <br>
 ⚡ Lifelong learner. <br>
 
 📫 How to reach me: https://www.linkedin.com/in/carolinegrosa/
