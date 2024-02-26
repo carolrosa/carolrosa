@@ -5,7 +5,7 @@
 
 ------------
 
-🔭 QA at ADP Brazil Labs. <br>
+🔭 QA at Object Edge. <br>
 🌱 Studying Software Quality Engineering at EBAC {British School of Creative Arts and Technology}. <br>
 ⚡ Lifelong learner. <br>
 
